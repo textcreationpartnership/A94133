@@ -1,0 +1,638 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Divinity no enemy to astrology: intended to have been delivered in a sermon to the students in that art, but prevented by the sickness of the author T.S. D.D.</title>
+            <author>Swadlin, Thomas, 1600-1670.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 60 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94133</idno>
+            <idno type="STC">Wing S6215</idno>
+            <idno type="STC">Thomason E721_1</idno>
+            <idno type="STC">ESTC R207212</idno>
+            <idno type="EEBO-CITATION">99866280</idno>
+            <idno type="PROQUEST">99866280</idno>
+            <idno type="VID">166761</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94133)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166761)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 111:E721[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Divinity no enemy to astrology: intended to have been delivered in a sermon to the students in that art, but prevented by the sickness of the author T.S. D.D.</title>
+                  <author>Swadlin, Thomas, 1600-1670.</author>
+               </titleStmt>
+               <extent>[4], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.G. for Nathaniel Brooke at the Angel in Corn-hill.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>To the reader signed: Tho: Svvadlin.</note>
+                  <note>Annotation on Thomason copy: "Nou. 29.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Astrology --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166761:1" rendition="simple:additions"/>
+            <p>DIVINITY <hi>NO ENEMY</hi> TO ASTROLOGY: Intended to have been delivered in a Sermon to the Students in that ART, but prevented by the Sickneſs of the AUTHOR <hi>T.S.</hi> D.D.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by J.G. for NATHANIEL BROOKE At the <hi>Angel</hi> in <hi>Corn-hill.</hi> 1653.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:166761:2"/>
+            <pb facs="tcp:166761:2"/>
+            <head>TO THE READER.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>F thou art Man, Gentleman, Scholler, I fear not thy Cenſure; under ſuch a one, whether I ſtand or fall, it diſpleaſes me not.</hi>
+            </p>
+            <p>
+               <hi>If thou be</hi> Beaſt, <hi>and byaſſed by</hi> Phan<g ref="char:EOLhyphen"/>cy; <hi>if thou be</hi> barbarous, <hi>and ruled by paſ<g ref="char:EOLhyphen"/>ſion; if thou be</hi> humorous, <hi>and led by</hi> po<g ref="char:EOLhyphen"/>pularity, <hi>I care not for thy</hi> Cenſure.</p>
+            <p>
+               <hi>It is</hi> Aſtrology <hi>I ſeeke to maintaine, and the Queſtion is, not</hi>
+            </p>
+            <p n="1">1. <hi>Whether</hi> Jugling <hi>be lawfull? It is, I confeſſe,</hi> Deception, <hi>and againſt</hi> Soci<g ref="char:EOLhyphen"/>ety: <hi>nor</hi>
+            </p>
+            <p n="2">2. <hi>Whether</hi> Witch-craft <hi>be lawfull? it is, I confeſſe,</hi> Diabolicall, <hi>and againſt</hi> Divinity: <hi>nor</hi>
+            </p>
+            <pb facs="tcp:166761:3"/>
+            <p n="3">3. <hi>Whether</hi> Calculation of Princes Nativities <hi>be lawfull? it is, I confeſſe</hi> Curioſity, <hi>and againſt the</hi> Law of Man.</p>
+            <p>
+               <hi>But the</hi> Queſtion <hi>is, whether</hi> Aſtro<g ref="char:EOLhyphen"/>logy <hi>be lawfull? and that thou maiſt re<g ref="char:EOLhyphen"/>ſolve thy ſelfe in this,</hi> I <hi>propoſe theſe</hi> Que<g ref="char:EOLhyphen"/>ries, <hi>which when thou haſt revolved, it may be thou wilt reſolve with me,</hi> Aſtrology is lawfull.</p>
+            <p n="1">1. <hi>Whether the</hi> End, <hi>for which</hi> God <hi>created things, be lawfull?</hi>
+            </p>
+            <p n="2">2. <hi>Whether</hi> God <hi>created not the</hi> Sun, Moon, <hi>and</hi> Starres <hi>for this very</hi> End, to know <hi>the</hi> Times and Seaſons?</p>
+            <p n="3">3. <hi>Whether the</hi> knowledge of Times and Seaſons <hi>can be had by any meanes, but</hi> Aſtrology?</p>
+            <p>
+               <hi>If thou give a</hi> Negative <hi>to theſe, thou ſhalt be anſwered with the ſilence of him who is of another opinion, and acknow<g ref="char:EOLhyphen"/>ledgeth his name to be</hi>
+            </p>
+            <closer>
+               <signed>THO: SVVADLIN.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:166761:3"/>
+            <head>DIVINITY NO ENEMY TO ASTROLOGY, <hi>&amp;c.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>MAT. 2.2.</hi>
+                  </bibl>
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</p>
+                  <p>We have ſeen his Star in the <hi>Eaſt.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">A</seg>Strologers make their Aſcenſion from one Planet to another, from <hi>Luna</hi> which is <hi>omnium infimus,</hi> the loweſt of the ſeaven, to <hi>Mercury</hi> in the 6. place, to <hi>Venus</hi> in the 5. to <hi>Sol</hi> in the 4. to <hi>Mars</hi> in the 3. to <hi>Jupiter</hi> in the 2. to <hi>Saturne</hi> which is <hi>ſuperiorum al<g ref="char:EOLhyphen"/>tiſsimus,</hi> the higheſt of them all.</p>
+            <p>Divines obſerve the ſame degree in the Aſcenſion of their <hi>Luminaries;</hi> from <hi>Natura ad legem;</hi> from <hi>lex ad prophetiam;</hi> from <hi>prophetae ad Evangelium;</hi> from <hi>Evangelium ad Gratiam;</hi> from <hi>Gratia ad Conſo<g ref="char:EOLhyphen"/>lationem;</hi> from <hi>Conſolatio ad Gloriam.</hi>
+            </p>
+            <p n="1">1. Nature is <hi>Luminum limpidiſsimum,</hi> the dimmeſt
+<pb n="2" facs="tcp:166761:4"/>of our ſeven lights; and yet as <hi>Mephiboſheth,</hi> though lame was of the <hi>Kingly Race,</hi> becauſe he was the Son of <hi>Jonathan;</hi> ſo is <hi>Nature regia proles,</hi> of the <hi>Bloud Royall,</hi> as dimme as it is, becauſe ſhee is the Daugh<g ref="char:EOLhyphen"/>ter of God; and therefore is called by <hi>Solomon, Can<g ref="char:EOLhyphen"/>dela Domini,</hi>
+               <note place="margin">Prov. 20.27.</note> the <hi>Candle of the Lord;</hi> and by the <hi>light</hi> of this, if thriftily uſed, wee may ſee the way how to fulfill that univerſall Law; <hi>Quod tibi vis fieri, alteri feceris;</hi> Doe as thou wouldſt be done unto.</p>
+            <p n="2">2. From this we aſcend <hi>ad lucem legis,</hi> to the light of the Law, ſo <hi>Solomon</hi> the wiſe calls it; <hi>lux lex,</hi> The Law is a light:
+<note place="margin">Prov. 6.23. Pſ. 19.8.</note> and <hi>David</hi> the <hi>Father</hi> ſayes, Thy Law is a light unto my ſteps, and of this, if we make an holy uſe wee ſhall not ſtumble at any ſtraw of ſin.</p>
+            <p n="3">3. From hence we aſcend <hi>ad lucem propheticum,</hi> to the propheticall light;
+<note place="margin">2 Pet. 1.19.</note> which St. <hi>Peter</hi> calls <hi>lucernam ſplendentem in loco obſcuro,</hi> a Light ſhining in a darke place, and this will cure any <hi>phariſaicall Eye,</hi> that he may clearly ſee the <hi>inward luſt</hi> as well as the <hi>outward Act</hi> forbidden; wiſhing of Murther, and ſhedding of bloud equally prohibited.</p>
+            <p n="4">4. From hence we journey <hi>ad lucem Evangelicam,</hi> to the light of the <hi>Goſpell,</hi> which St. <hi>Peter</hi> calls <hi>Lucem admirabilem,</hi>
+               <note place="margin">1 Pet. 2.9.</note> a wonderfull light; and deſervedly, for it brings us from the wonderfull darkeneſſe of ſinne, by the wonderfull Eye of <hi>Faith,</hi> to ſee the wonderfull mercy of God in the forgiving of our ſins, by the wonderfull death of <hi>Jeſus Chriſt,</hi> becauſe both God and Man.</p>
+            <p n="5">5. From hence we paſſe <hi>ad Lucem Gratiae,</hi> to the
+<pb n="3" facs="tcp:166761:4"/>
+               <hi>light of Grace;</hi>
+               <note place="margin">2 Cor. 4.6.</note> which St. <hi>Paul</hi> ſayes is a <hi>light</hi> that ſhines in our hearts, to give us the <hi>light</hi> of the know<g ref="char:EOLhyphen"/>ledge of the <hi>Glory of God.</hi>
+            </p>
+            <p n="6">6. From hence we aſcend <hi>ad lucem conſolatoriam,</hi> to the <hi>light of comfort, as King</hi> David calls it;
+<note place="margin">Pſ.</note> There is a <hi>light ſprung up for the Righteous, even joy</hi> and <hi>glad<g ref="char:EOLhyphen"/>neſſe for ſuch as be true of heart.</hi>
+            </p>
+            <p n="7">7. And from hence we paſſe <hi>ad lucem glorioſam,</hi> to the <hi>Light of Glory,</hi> the Preſence of God, which St. <hi>Paul</hi> calls <hi>the inheritance of the Saints in light.</hi>
+            </p>
+            <p>And hitherto they agree, in their ſeverall degrees, by their ſeverall <hi>Aſcendents.</hi> They from their <hi>Luna</hi> to their <hi>Chronos,</hi> their <hi>Saturne,</hi> who is ſaid to begin with <hi>Time;</hi> wee from our <hi>Minerva,</hi> to our <hi>Thrones,</hi> to our <hi>Eternity,</hi> to our God, with whom all Achrones are alike, and who is without all diſtinction of <hi>Times, Et à parte ante, &amp; à parte poſt,</hi> having no more <hi>An<g ref="char:EOLhyphen"/>te-meridian</hi> before him, then he ſhall have <hi>Pomeridian</hi> after him.</p>
+            <p>Whether they are <hi>compatible,</hi> and may live to<g ref="char:EOLhyphen"/>gether, without depoſing or Excommunicating one the other in other things, wee ſhall ſee in the diſ<g ref="char:EOLhyphen"/>ſection of theſe words, by the diſquiſition of theſe <hi>Quaeries,</hi> as the Members of the whole body.</p>
+            <p n="1">1. Who theſe <hi>Videntes</hi> were, not onely <hi>qui,</hi> but alſo <hi>quales,</hi> and <hi>cujates; who, what conditioned,</hi> and what Countrey men they were?</p>
+            <p n="2">2. Whether this <hi>viſum</hi> were a common, and pre<g ref="char:EOLhyphen"/>exiſtent, or a new created <hi>Star?</hi>
+            </p>
+            <p n="3">3. Whether by the <hi>Starrs</hi> any knowledge could be had of Chriſts Birth?</p>
+            <pb n="4" facs="tcp:166761:5"/>
+            <p n="4">4. Whether the ſtudy of Aſtrology be law full?</p>
+            <p n="5">5. Why God directed them by a <hi>Star,</hi> and notby a <hi>Prophet,</hi> not by an <hi>Angel?</hi>
+            </p>
+            <p n="1">1.
+<note place="margin">
+                  <hi>Pars</hi> 1.</note> Firſt, for the <hi>qui, quales</hi> and the <hi>cujates:</hi> who, what, and what Countreymen they were?</p>
+            <p n="1">1.
+<note place="margin">1<hi rend="sup">a</hi>. 1<hi rend="sup">ae</hi>.</note> And of all firſt, <hi>qui,</hi> who were they? as wee have received it by <hi>Tradition,</hi> (and better proofe wee have none;) they are called by name, <hi>Gaſper, Mel<g ref="char:EOLhyphen"/>chior, Balthaſar;</hi> and this <hi>Tradition,</hi> though wee em<g ref="char:EOLhyphen"/>brace <hi>inter pia credibilia,</hi> amongſt harmeleſſe credu<g ref="char:EOLhyphen"/>lities, yet the other Tradition upon this depending</p>
+            <q>
+               <lg>
+                  <l>
+                     <hi>Gaſper fert Myrrha<g ref="char:cmbAbbrStroke">̄</g>, thus Melchior, Balthaſar aurum:</hi>
+                  </l>
+                  <l>
+                     <hi>Haec tria qui ſecum portabit nomina regum,</hi>
+                  </l>
+                  <l>
+                     <hi>Solvitur à morbo, Chriſti pietate, caduco.</hi>
+                  </l>
+                  <l>
+                     <hi>Gaſpar</hi> with his <hi>Myrrhe</hi> begun,</l>
+                  <l>Theſe preſents to unfold:</l>
+                  <l>Then <hi>Melchior</hi> brought in <hi>Frankincenſe,</hi>
+                  </l>
+                  <l>And <hi>Balthaſar</hi> brought Gold.</l>
+                  <l>He that of theſe holy Kings</l>
+                  <l>The Names about ſhall beare,</l>
+                  <l>The falling ill, by grace of Chriſt,</l>
+                  <l>Shall never need to feare.</l>
+               </lg>
+            </q>
+            <p>This Tradition wee expunge <hi>inter impias fraudes,</hi> amongſt banefull deceipts, and ſend them back from whence they came, as a very fooliſh Charme, to cure the <hi>Epilepſie,</hi> or <hi>Falling ſickneſſe.</hi>
+            </p>
+            <p>And, as I conceive <hi>Aſtrologers</hi> give it no more cre<g ref="char:EOLhyphen"/>dit, then do <hi>Divines,</hi> we may without offence to <hi>Faith</hi> or <hi>Charity,</hi> imagin their names to be as I have deli<g ref="char:EOLhyphen"/>vered them, <hi>Gaſpar, Melchior, Balthaſar,</hi> and this ſhall ſuffice for the <hi>qui,</hi> who they were.</p>
+            <pb n="5" facs="tcp:166761:5"/>
+            <p>Secondly, for their <hi>quales;</hi>
+               <note place="margin">2<hi rend="sup">a</hi>. <hi rend="sup">ae</hi>.</note> what manner of men were they? It is againe received by <hi>Tradition,</hi> that they were <hi>Kings;</hi> Kings for their <hi>quality:</hi> which howſo<g ref="char:EOLhyphen"/>ever it may be admitted, for the <hi>Antiquity</hi> of it as not lyable to any demonſtration for the contrary; yet that other Tradition, which depends upon this, That they lived and died in <hi>Judea,</hi> and were there b<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ied, and afterwards tranſlated by Queene <hi>Helena,</hi> the Mother of <hi>Constantine,</hi> to <hi>Colen,</hi> whence ariſes the 3. Kings of <hi>Colen,</hi> a precious and adored <hi>Relique</hi> with the Novices of <hi>Rome,</hi> we explode, &amp; remit again, as being cleane contrary to the <hi>Scripture,</hi> which ſaith, <hi>They returned back into their own Countrey another way.</hi>
+            </p>
+            <p>
+               <hi>Their own Countrey!</hi> and therefore <hi>Judea</hi> none of their Countrey; Thither they returned; and there<g ref="char:EOLhyphen"/>fore in <hi>Iudea</hi> they lived not, they died not.</p>
+            <p>But then 3. <hi>Cujates,</hi>
+               <note place="margin">3<hi rend="sup">a</hi>. 1<hi rend="sup">ae</hi>,</note> what Countreymen were they? why in the reſolve of this, Expoſitors are di<g ref="char:EOLhyphen"/>vided in their opinions; I ſhall name ſome of them, and make my choyce of the likelieſt.</p>
+            <p n="1">1. Some think they were <hi>Caldeans,</hi> ſo ſayes <hi>Remigi<g ref="char:EOLhyphen"/>us;</hi> The people of which Countrey worſhipped a <hi>Starre</hi> for their God; and their God falſely ſo called, was made an inſtrument by the true God, to bring them unto Chriſt.</p>
+            <p>But this to me carries an Inveriſimilitude, becauſe <hi>Caldea</hi> is commonly ſpoke of as <hi>North</hi> from <hi>Jeruſa<g ref="char:EOLhyphen"/>lem;</hi> whereas theſe came from the <hi>Eaſt;</hi> for as I take it, <hi>vidimus,</hi> and <hi>venimus,</hi> in this Text, have both one <hi>Terminus à quo,</hi> they came from, and ſaw his <hi>Star</hi> in the <hi>Eaſt.</hi>
+            </p>
+            <p n="2">2. Some thinke they were <hi>Perſians,</hi> and this Opi<g ref="char:EOLhyphen"/>nion
+<pb n="6" facs="tcp:166761:6"/>hath ſome veriſimilitude; becauſe <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or <hi>Magi,</hi> the word in this Verſe, is a <hi>Perſian</hi> word, and amongſt them, <hi>Wiſe men,</hi> i. e. ſuch as could give a reaſon in <hi>Philoſophy</hi> of every thing, were in ſo great account, Honour, and Veneration, that no publique matters were tranſacted without their Counſell and Adviſe, nor was any thing thought to be well done or law<g ref="char:EOLhyphen"/>fully, which was not done by their approbation, or without their conſent.</p>
+            <p>But yet to this Opinion, I adhere not, becauſe <hi>Perſia</hi> as well as <hi>Caldea,</hi> ſtood <hi>Northward</hi> from <hi>Jeruſalem.</hi>
+            </p>
+            <p n="3">3. Some thinke they were <hi>Perſians,</hi> and of the poſterity of <hi>Balaam,</hi> and this, in my thoughts is the moſt likely, both for the <hi>Scituation,</hi> and <hi>Fructificati<g ref="char:EOLhyphen"/>on</hi> of the Country, as alſo for the <hi>direction</hi> which they followed.</p>
+            <p n="1">1. For <hi>Scituation, Arabia</hi> the County of <hi>Balaam,</hi> which is <hi>Siria,</hi> is not above ſix or ſeven dayes journey from <hi>Jeruſalem,</hi> and ſtands <hi>Estward</hi> from it, <hi>ſouth-Eaſt.</hi>
+            </p>
+            <p n="2">2. For <hi>Fructification,</hi> the <hi>Native</hi> fruits of that Countrey, were <hi>Gold, Frankincenſe,</hi> and <hi>Myrrhe: Gold</hi> and <hi>Myrrhe,</hi> I confeſſe, might be had from other Countries, but <hi>Frankincenſe</hi> no part afforded, but <hi>Arabia.</hi>
+            </p>
+            <lg>
+               <l>
+                  <hi>Lib.</hi> 4. <hi>Faſt.</hi> Hence, <hi>Ovid</hi> calls them <hi>Thurilogos.</hi>
+               </l>
+               <l>
+                  <hi>Non modò thurilogos Arabas, modò ſuſcipit Jndos.</hi>
+               </l>
+               <l>Hence <hi>Mantuan</hi> calls them <hi>Thuriferos.</hi>
+               </l>
+               <l>
+                  <hi>Thurifero Arabas Syriae Bipatentibus alis.</hi>
+               </l>
+               <l>Hence <hi>Pamphilus</hi> calls them <hi>Odoratos.</hi>
+               </l>
+            </lg>
+            <p>
+               <hi>Vicit odoratos Arabas: Pline</hi> puts it beyond queſtion, ſaying, <hi>Thura praeter Arabiam nullis.</hi>
+            </p>
+            <pb n="7" facs="tcp:166761:6"/>
+            <p>And the Pſalmiſt ſayes the ſame, for there was <hi>Gold,</hi> and decides it irrefragably, if that Pſalme were Penned prophetically of <hi>Chriſt,</hi> unto him ſhall be gi<g ref="char:EOLhyphen"/>ven of the <hi>Gold</hi> of <hi>Arabia.</hi>
+            </p>
+            <p>For the abundance of <hi>Gold, Arabia</hi> is called <hi>Faelix;</hi> and for the excellency of <hi>Frankincenſe,</hi> it was called <hi>Sacra;</hi> for both, <hi>Tibullus</hi> calls it <hi>terram divitem.</hi>
+            </p>
+            <q>
+               <l>—Urantur odores</l>
+               <l>Quos tener à terrâ divite mittit Arabs;</l>
+            </q>
+            <p>Nor do I remember any other Countrey to be Epi<g ref="char:EOLhyphen"/>thetically ſpoken of <hi>Frankincenſe,</hi> ſave <hi>Egypt,</hi> and that is but once by <hi>Statius,</hi> where hee ſayes, <hi>Thus Nilia<g ref="char:EOLhyphen"/>cum;</hi> and that, I conceive hee ſpeakes, in reference to the ſituation, <hi>Arabia</hi> lying betwixt <hi>Egypt</hi> and <hi>Ju<g ref="char:EOLhyphen"/>dea;</hi> and <hi>Tibullus</hi> tells us, that is <hi>Eaſtward,</hi> ſaying:
+<q>Eoſque Arabas, dives &amp; Aſsiria.</q>
+            </p>
+            <p n="3">3. Adde to theſe the direction which they follow<g ref="char:EOLhyphen"/>ed; and that puts it as home,
+<note place="margin">Num. 23.17.</note> 
+               <hi>out of</hi> Jacob <hi>ſhall come a Starre.</hi> Out of <hi>Jacob,</hi> did I ſay! what is that to the <hi>Eaſt</hi> may you ſay? Why it is thus much; <hi>Balaam</hi> and his Poſterity were of Kin to <hi>Iacob</hi> by the ſecond Mar<g ref="char:EOLhyphen"/>riage of <hi>Abraham</hi> to <hi>Peturah,</hi>
+               <note place="margin">Gen. 14.</note> who ſent his Children by that <hi>venter Eaſtward.</hi>
+            </p>
+            <p>But be they what they will, <hi>Caldeans, Perſians,</hi> or <hi>Arabians,</hi> it makes not much to our <hi>Faith</hi> or <hi>Man<g ref="char:EOLhyphen"/>ners;</hi> ſure I am, they were <hi>Gentiles,</hi> and that com<g ref="char:EOLhyphen"/>mands me to ſpeake the <hi>Application</hi> thus.</p>
+            <p>
+               <hi>Appli.</hi> 1. Were theſe <hi>Videntes,</hi> Kings? It may be they were, we have <hi>Tradition</hi> to tempt our <hi>credulity</hi> that way; and if they were ſo, then wee are bound in a greater obligation of thankfulneſſe to Almighty God then were the <hi>Jewes;</hi> For but a poore few of
+<pb n="8" facs="tcp:166761:7"/>the <hi>Iewes</hi> came to Chriſt at his <hi>Birth,</hi> mean Men; but of the <hi>Gentiles,</hi> the richeſt and the beſt ſort, with all their traine.</p>
+            <p>And why ſo, but that the <hi>Holy Ghoſt</hi> did hereby ſhew, That but a few beggarly <hi>Iewes</hi> ſhould receive and believe in Chriſt, but the beſt ſort of the <hi>Gentiles, Kings</hi> and <hi>Nobles,</hi> with all their <hi>Courtiers</hi> and <hi>Atten<g ref="char:EOLhyphen"/>dants</hi> ſhould by the <hi>Sonne of God,</hi> be made the <hi>Sonnes of God.</hi>
+            </p>
+            <p>Hard for a rich <hi>Jew</hi> to follow <hi>Chriſt;</hi> but eaſie enough for a rich <hi>Gentile,</hi> if he will but part with his <hi>Gold, Frankincenſe</hi> and <hi>Myrrhe,</hi> as theſe <hi>Gentile Kings</hi> did, to <hi>Christ.</hi>
+            </p>
+            <p n="2">2. But ſecondly, if they were not <hi>Kings,</hi> for we build not upon that, becauſe wee have but <hi>Tradition</hi> for it; yet they were <hi>Magi;</hi> This wee build upon, becauſe we have <hi>Scripture</hi> for it; <hi>Magi,</hi> whom the <hi>Iewes</hi> call <hi>Scribes,</hi> the <hi>Indians, Gymnoſophiſts;</hi> the <hi>Egyptians, Prophets;</hi> the <hi>Aſsirians, Calde;</hi> the <hi>French, Druides;</hi> the <hi>Romans, Sapientes;</hi> and our <hi>Tranſlation, Wiſe<g ref="char:EOLhyphen"/>men.</hi>
+            </p>
+            <p>Why then wee may bee confident, wee ſhall finde Chriſt by our <hi>Wiſdome,</hi> though wee cannot by our <hi>power, Magorum eſt, non Magnorum;</hi> and they under<g ref="char:EOLhyphen"/>ſtood this <hi>mystery</hi> by their <hi>knowledge,</hi> not by their <hi>might;</hi> by their <hi>Art,</hi> not by their <hi>Armes; Plus valet teſtimonium ſapientium quàm militum.</hi> The <hi>Goſpell</hi> was firſt publiſhed, by <hi>Wiſemen,</hi> not by <hi>ſtrong men;</hi> by <hi>Schollers,</hi> not by <hi>Souldiers;</hi> and that <hi>Religion</hi> which is ſeldome reſtored by the power of an <hi>Army,</hi> when it is unjoynted, may firſt or laſt be regained by the <hi>Wiſdome</hi> of a Councill; what <hi>Herod</hi> with his Men
+<pb n="9" facs="tcp:166761:7"/>of <hi>Warre</hi> could not obtaine, <hi>Gaſper</hi> with his men of <hi>Wiſdome</hi> atcheived, the favour of <hi>Christ.</hi>
+            </p>
+            <p n="3">3. And thirdly, becauſe they were <hi>Gentiles,</hi> and therefore great ſinners, and yet came to <hi>Chriſt;</hi> wee therefore, though the greateſt ſinners in the world, have no neceſſity, no <hi>fatall neceſsity</hi> to deſpaire.</p>
+            <p>Not the <hi>Griping Uſurer;</hi> If he will go to <hi>Christ</hi> up<g ref="char:EOLhyphen"/>on the <hi>bountifull Feet of Reſtitution,</hi> he ſhall find <hi>Chriſt</hi> ready to receive him in the <hi>bountifull Armes of Salva<g ref="char:EOLhyphen"/>tion;</hi> we have the example of <hi>Zacheus</hi> for it.
+<note place="margin">Luke 19.</note>
+            </p>
+            <p>Not the <hi>ſhining Adultereſſe;</hi> If ſhe will go to <hi>Chriſt</hi> upon the <hi>ſorrowfull Feet of Contrition,</hi> ſhe ſhall finde <hi>Chriſt</hi> ready to embrace her in the <hi>comfortable Armes of Compaſsion:</hi> we have the example of S. <hi>Mary Mag<g ref="char:EOLhyphen"/>delen</hi> for it.</p>
+            <p>Not the <hi>ſpecious Perſecuter of the Saints;</hi> If he will go to <hi>Chriſt</hi> upon the <hi>painfull Feet of Obedience,</hi> he ſhall finde <hi>Chriſt</hi> ready to entertaine him in the <hi>plea<g ref="char:EOLhyphen"/>ſant Armes of Acceptance:</hi> we have the example of S.
+<note place="margin">Acts 9.</note> 
+               <hi>Paul</hi> for it.</p>
+            <p>Not the <hi>high-towring Aſtrologer;</hi> If he will go to <hi>Christ</hi> upon the <hi>carefull Feet of Oblation,</hi> he ſhall finde <hi>Chriſt</hi> ready to welcome him in the <hi>cheerfull Armes of Acceptation;</hi> we have the example of theſe <hi>Wiſe men</hi> for it.</p>
+            <p>And it is a true and faithfull ſaying, and worthy of all acceptation,
+<note place="margin">1 Tim. 1.15.</note> That Jeſus Chriſt came into the world to ſave ſinners, the chiefeſt ſinners, the Lion<g ref="char:EOLhyphen"/>like Uſerer, the Goat-like Adulterer, the Bear-like Perſecutor, the Pantomartian Gentile, if they will ſeek for Chriſt, though but by the help of a Starre, which brings me to my ſecond Diſquiſition.</p>
+            <pb n="10" facs="tcp:166761:8"/>
+            <p>Whether this <hi>Viſum</hi> of theſe <hi>Videntes</hi> was a Com<g ref="char:EOLhyphen"/>mon and prae-exiſtent,
+<note place="margin">
+                  <hi>Pars</hi> 2.</note> or a new created Starre? And of this there are ſeverall opinions; I ſhall name ſome of them, and make my choice of the likelieſt.</p>
+            <p>And yet before I do this, I ſhall firſt decide One queſtion raiſed by the <hi>Church of Rome,</hi> viz.</p>
+            <p>
+               <hi>Whether this were one Starre, or a company of Stars?</hi> And they tell us from <hi>Albumazar,</hi> That that <hi>Signe</hi> in the <hi>Zodiaque</hi> which is called the <hi>Vigine,</hi> is an heap of ſuch <hi>Starres,</hi> that you may read in them, <hi>Virginem geſtantem inter brachia filium,</hi> a <hi>Virgin</hi> bearing an <hi>Infant</hi> in her <hi>Armes;</hi> and ſome of them have ſaid that to be this <hi>Starre.</hi>
+            </p>
+            <p>And they ſeek to prove this opinion from <hi>Sibylla Tiburtina,</hi> who ſhewed <hi>Augustus,</hi> when he boaſted of his heavenly deſcent, <hi>Virginem in coelo, &amp;c.</hi> a Virgine in heaven bearing a young Child in her Armes, with theſe words, <hi>Hic puer te major eſt, ipſum adora,</hi> This Infant is greater then thou, worſhip thou him.</p>
+            <p>And they fortifie this againe, with an authority fa<g ref="char:EOLhyphen"/>thered upon Saint <hi>Chryſoſtome,</hi>
+               <note place="margin">
+                  <hi>Ep. imperf. hom.</hi> 4. in Math. 2.</note> ſpeaking thus: This Starre appeared unto them, having in it the form of a little Childe, and above him the ſimilitude of a Croſſe.</p>
+            <p>But as I take it, the word of my <hi>Text</hi> is neither <hi>Aſtrum</hi> nor <hi>Sydus,</hi> a <hi>Knot,</hi> or a <hi>Company,</hi> or a <hi>Com<g ref="char:EOLhyphen"/>poſition</hi> of <hi>Starres;</hi> but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the <hi>Originall,</hi> and <hi>Stellam</hi> in the <hi>Tranſlation,</hi> a <hi>Singular</hi> and an <hi>Indivi<g ref="char:EOLhyphen"/>duall Starre;</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Vidimus ejus stellam,</hi> we have ſeen his Starre.</p>
+            <p n="1">1. Some imagine that the <hi>Holy Ghoſt,</hi> who at Chriſts <hi>Baptiſme,</hi> appeared in the form of a Dove, appeared
+<pb n="11" facs="tcp:166761:8"/>now at his <hi>Birth</hi> in the ſhape of a Starre.
+<note place="margin">Mat. 3.</note>
+            </p>
+            <p>That this might be ſo, I dare not deny; becauſe the <hi>Holy Ghost</hi> hath appeared as well in the forme of <hi>Inanimates,</hi> as of <hi>Animates;</hi> ſo to the <hi>Apoſtles</hi> upon <hi>Whitſunday</hi> in the forme of <hi>Fire.</hi> And if this were ſo,
+<note place="margin">Acts 2.</note> it makes much for the Legality of <hi>Aſtrologie;</hi> be<g ref="char:EOLhyphen"/>cauſe the <hi>Holy Ghoſt</hi> never did, never will appeare, in the ſhape of any thing that is unlawfull, or un<g ref="char:EOLhyphen"/>holy.</p>
+            <p>But that he did now appeare in the forme of a <hi>Starre,</hi> I dare not affirme.</p>
+            <p n="2">2. Some are of opinion, That the ſame <hi>Angell</hi> which appeared to the <hi>Shepheards</hi> in his own <hi>Luſtre,</hi> appeared to theſe <hi>Sophiſts</hi> in the ſhape of a <hi>Starre.</hi>
+            </p>
+            <p>And that this might be ſo, I dare not deny; be<g ref="char:EOLhyphen"/>cauſe ſometimes the <hi>Angels</hi> are called <hi>Starres,</hi> both the <hi>Angels</hi> of the <hi>Church triumphant,</hi>
+               <note place="margin">Apoc. 2.</note> and alſo the <hi>Angels</hi> of the <hi>Church-militant.</hi>
+            </p>
+            <p>But that this was ſo, I do not believe, becauſe I do believe it was a <hi>reall Starre;</hi> and believe withall, it was no <hi>Ordinary,</hi> no <hi>pre-exiſtent Starre,</hi> none of them which <hi>God</hi> created in the beginning; but an <hi>Extra<g ref="char:EOLhyphen"/>ordinary,</hi> and <hi>new-created Starre;</hi> and the reaſons of my beliefe are theſe:</p>
+            <p n="1">1. Had it been a <hi>Common Starre,</hi> likely it would have gone the common way of the <hi>Stars,</hi> from <hi>Eaſt to Weſt.</hi>
+            </p>
+            <p>That is the <hi>Naturall courſe of the Stares,</hi> the courſe that <hi>Nature</hi> hath appointed them; and <hi>Nature</hi> tranſ<g ref="char:EOLhyphen"/>greſſeth not her owne <hi>Conſtitution;</hi> But this <hi>Starre</hi> went from the <hi>Eaſt</hi> into the <hi>South, Jeruſalem</hi> ſtan<g ref="char:EOLhyphen"/>ding <hi>South</hi> from <hi>Arabia.</hi>
+            </p>
+            <pb n="12" facs="tcp:166761:9"/>
+            <p n="2">2. Had it beene a <hi>common Starre,</hi> likely it would have done as <hi>Common Starres</hi> do, have loſt her <hi>light</hi> in the day, the <hi>Sun</hi> being a greater, and more tranſpa<g ref="char:EOLhyphen"/>rent <hi>light,</hi> obſcuring the <hi>light</hi> of the <hi>Starres.</hi>
+            </p>
+            <p>As the <hi>light of a Candle</hi> gives way to the <hi>light of a Torch,</hi> ſo the <hi>Starres,</hi> which are but <hi>Candles</hi> in re<g ref="char:EOLhyphen"/>ſpect of the <hi>Sun,</hi> ſtrike <hi>Sayle,</hi> and vaile <hi>Bonnet,</hi> when the <hi>Sun</hi> appeares.</p>
+            <p>The <hi>Starres</hi> in the <hi>night</hi> have their glory, but when the <hi>Sun</hi> like a <hi>Gyant,</hi> appeares to run his courſe, then theſe <hi>Dwarfs</hi> hide their heads.</p>
+            <p>But this <hi>Starre</hi> ſhined equally <hi>day and night,</hi> and for ought I, or any man knowes, was <hi>brighter</hi> when the <hi>Sun</hi> was <hi>brighteſt,</hi>
+               <note place="margin">Pſal. 19.</note> both having the ſame errand, <hi>To declare the glory of God,</hi> and therefore no <hi>common Starre.</hi>
+            </p>
+            <p n="3">3. Had it been a <hi>Common Starre,</hi> it would have ſhi<g ref="char:EOLhyphen"/>ned in the <hi>Night</hi> continually, but this <hi>Starre</hi> did in<g ref="char:EOLhyphen"/>termit:
+<note place="margin">Exod.</note> juſt as the <hi>Pillar of Fire</hi> was to the <hi>Iſraelites</hi> in the <hi>Wilderneſſe,</hi> when they ſtood ſtill, it ſtood ſtill; ſo this <hi>Starre</hi> ſhined all the way, and guided the <hi>Wiſe Men</hi> to <hi>Jeruſalem;</hi> but when they came to <hi>Herod,</hi> it withdrew; and when they ſet on againe, why then, <hi>loe,</hi>
+               <note place="margin">Mat. 2.</note> the <hi>Starre</hi> which they ſaw in the <hi>Eaſt</hi> went before them againe; and therefore no <hi>Common Starre.</hi>
+            </p>
+            <p n="4">4. Had it been a <hi>Common Starre,</hi> it had been placed in the <hi>Common Region</hi> of the <hi>Starres,</hi> the <hi>upper Region</hi> of the <hi>Aire;</hi> but this in the <hi>lower,</hi> otherwiſe how could they have knowne the <hi>Cottage</hi> where <hi>Christ</hi> was, ſince a <hi>Common Starre</hi> in his owne <hi>Region,</hi> by reaſon of diſtance, ſeems equally over one houſe with another, within a great compaſſe; but this <hi>Starre</hi> went
+<pb n="13" facs="tcp:166761:9"/>and ſtood over the very houſe where <hi>Chriſt</hi> was; and therefore no <hi>Common Starre.</hi>
+            </p>
+            <p>And ſo much is intimated by our owne <hi>Country<g ref="char:EOLhyphen"/>man;</hi>
+               <q>
+                  <l>Novâ coelum ſtell â depingitur,
+<note place="margin">
+                        <hi>Houd lib.</hi> 1. <hi>Chriſtian. qua<g ref="char:EOLhyphen"/>ter.</hi> 38.</note>
+                  </l>
+                  <l>Dum Sol novus in terris oritur:</l>
+               </q> The <hi>Earth</hi> is bleſt with a <hi>new Sun,</hi> and therefore the <hi>Heaven</hi> is beautified with a <hi>new Starre.</hi>
+            </p>
+            <p>But what makes this diſcourſe of <hi>Starres</hi> in a <hi>Pul<g ref="char:EOLhyphen"/>pit?</hi>
+               <note place="margin">Acts 17.</note> why juſt as Saint <hi>Paul</hi> from the <hi>Altar to the un<g ref="char:EOLhyphen"/>known God,</hi> brought the <hi>Athenians</hi> to the knowledge of the <hi>true God;</hi>
+               <note place="margin">Apoc. 22.16.</note> ſo <hi>God</hi> from this <hi>blazing Starre</hi> brought the <hi>Gentiles</hi> to the knowledge of the <hi>bright morning Starre, Ieſus Chriſt:</hi> and ſo I draw this ſe<g ref="char:EOLhyphen"/>cond <hi>Diſqu. ſition</hi> into an <hi>uſefull Act</hi> of <hi>Divinity,</hi> thus:</p>
+            <p>When any <hi>balzing Starre</hi> or <hi>Comet</hi> ſhall ariſe in the <hi>cloudy Firmament</hi> of their <hi>accuſing Conſciences;</hi>
+               <note place="margin">Appl.</note> when the ſins which you have committed, like <hi>Me<g ref="char:EOLhyphen"/>teors,</hi> ſhall appeare to the <hi>Eyes</hi> of their <hi>remem<g ref="char:EOLhyphen"/>brance.</hi>
+            </p>
+            <p>When ſome <hi>Miniſters</hi> in the <hi>Pulpit,</hi> like <hi>Dog-ſtars,</hi> bark at their <hi>Actions.</hi>
+            </p>
+            <p>When others, like the <hi>Starre Wormwood,</hi> ſpeak bit<g ref="char:EOLhyphen"/>terly againſt their tranſgreſſions.</p>
+            <p>When others, like <hi>Lucifer,</hi> ſhine bright in <hi>Life and Doctrine;</hi> ô then hearken you to theſe viſible cla<g ref="char:EOLhyphen"/>mours: They are not <hi>Thunders</hi> to aſtoniſh you, but to awaken you; they are not <hi>Lightnings</hi> to blaſt you, but to beautifie you; they would not drive you from, but draw you to <hi>Ieruſalem,</hi> that you may en<g ref="char:EOLhyphen"/>quire after <hi>Chriſt;</hi> to <hi>Bethlehem,</hi> where you may ſee
+<pb n="14" facs="tcp:166761:10"/>
+               <hi>Christ</hi> in the <hi>Cradle;</hi> to <hi>Calvarie,</hi> where you may ſee <hi>Chriſt</hi> on the <hi>Croſſe,</hi> and their <hi>ſinnes</hi> there cancel<g ref="char:EOLhyphen"/>led, and their <hi>ſoules</hi> thereby ſaved, that their ſelves may one day ſhine like <hi>Starres</hi> in the Kingdome of Heaven.</p>
+            <p>But if you will turne back to this <hi>Sun,</hi> if you will ſhut your <hi>Eyes</hi> to theſe <hi>Starres,</hi> and go back from theſe <hi>Lights,</hi> and will none of their Directions: then take heed, that theſe <hi>Magi</hi> riſe not in judgement a<g ref="char:EOLhyphen"/>gainſt you; for upon the ſight of a <hi>Starre</hi> they came to <hi>Ieruſalem,</hi> ſaying, <hi>Where is hee that is born King of the Iewes? for we have ſeene his Starre in the Eaſt.</hi>
+            </p>
+            <p>Why,
+<note place="margin">
+                  <hi>Pars</hi> 3.</note> could there be any knowledge of <hi>Chriſts Birth by the Starres?</hi>
+            </p>
+            <p>This is my third <hi>Quaerie,</hi> and thus I looke in<g ref="char:EOLhyphen"/>to it.</p>
+            <p>
+               <hi>Petrus Aliacus</hi> gives it thus,
+<note place="margin">
+                  <hi>Ep.</hi> 30. in Gen.</note> The <hi>Birth of Chriſt</hi> might be known by the Obſervation of the <hi>Starres;</hi> but not ſo certainly, if this <hi>new Starre</hi> had not riſen to declare him, where me thinkes he ſeemes to ſpeake thus:</p>
+            <p>The generall Obſervation of the <hi>common Starres</hi> might give ſome generall knowledge; and this <hi>Starre</hi> did give a certain knowledge of <hi>Chriſts</hi> Birth; and thus he backs his opinion:</p>
+            <p>
+               <hi>Coeli &amp; astra ſuo Domino quaſi famulentes, ejus or<g ref="char:EOLhyphen"/>tum in dicere potuerunt, qui eſt ſupra omnes coelos;</hi> The Heavens and the Starres being Gods Servants, might ſhew the <hi>Birth</hi> of <hi>Chriſt,</hi> who is above both <hi>Heaven and Starres.</hi>
+            </p>
+            <p>And furthermore he confirmes it againe, ſaying,
+<pb n="15" facs="tcp:166761:10"/>Six yeares before there was a great Conjunction of <hi>Saturne</hi> and <hi>Jupiter,</hi> which in the judgment of <hi>Aſtro<g ref="char:EOLhyphen"/>logy</hi> portends a great alteration in <hi>Religion;</hi> and at the very time of his <hi>Birth,</hi> the <hi>eighth degree</hi> of the <hi>Signe</hi> called <hi>Virgo</hi> was the <hi>Horoſcope,</hi> it beginning then to ariſe; whereupon <hi>Albertus Magnus</hi> from <hi>Albumazar</hi> hath left it thus recorded, <hi>In the firſt ap<g ref="char:EOLhyphen"/>pearance of that Signe, a certaine faire and honeſt Vir<g ref="char:EOLhyphen"/>gin aſcended,</hi> and <hi>nouriſhed a Childe, whom the Iewiſh Nation calleth Ieſus.</hi>
+            </p>
+            <p>But with his favour, for all his great learning, I may not adhere to his opinion; Happily ſome <hi>gene<g ref="char:EOLhyphen"/>rall Conjectures</hi> may be made upon ſuch <hi>Conſtellati<g ref="char:EOLhyphen"/>ons:</hi> but hereby to collect the <hi>Birth of Chriſt</hi> in my thoughts, exceedes all humane skill: and my rea<g ref="char:EOLhyphen"/>ſon is,</p>
+            <p>That knowledge which comes by <hi>Aſtrologie</hi> is only <hi>Naturall;</hi> and that too of ſuch things as have for<g ref="char:EOLhyphen"/>merly been; <hi>Experience</hi> being the chiefe Miſtreſſe of this <hi>Art.</hi>
+            </p>
+            <p>The <hi>Aſtrologer</hi> can draw no <hi>Concluſion,</hi> I think he cannot, but from alteration of former Events, upon ſuch and ſuch Conſtellations and Conjunctions.</p>
+            <p>But there was never any <hi>Experience of Christs Birth;</hi> and therefore what Signe ſoever appeared in the Heavens, it was impoſſible for any man living, by his owne skill, to tell it, without ſome <hi>Extraordinary revelation of it from God.</hi>
+            </p>
+            <p>So S. <hi>Auguſtine;</hi>
+               <note place="margin">Serm. <hi>de Epiphan.</hi>
+               </note> How did they know that this <hi>Starre</hi> appeared to manifeſt <hi>Chriſt?</hi> why certainly, ſayes he, <hi>ſome good Angell of God told them ſo,</hi> ſaying, <hi>The Starre which you ſee leades you to Christ; go, and
+<pb n="16" facs="tcp:166761:11"/>learn hereby what manner of Perſon, and how Great he is.</hi>
+            </p>
+            <p>And ſo much the late great <hi>Aſſertour</hi> of <hi>Aſtrolo<g ref="char:EOLhyphen"/>gie,</hi> Sir <hi>Chriſtopher Heydon,</hi> acknowledged in his <hi>Anſwer</hi> to an <hi>Objection</hi> of Mr. <hi>Chambres,</hi> upon this very point; The <hi>Objection</hi> ſtandeth thus, <hi>What needed this New Starre to guide them, if there were Starres e<g ref="char:EOLhyphen"/>nough before?</hi>
+            </p>
+            <p>And the ſumme of his <hi>Anſwer</hi> is this, <hi>Chriſts</hi> Birth might be knowne by this <hi>New Starre,</hi> and yet not be <hi>ſubject</hi> to the reſt of the <hi>Starres;</hi> ſince this <hi>Birth</hi> was <hi>ſupernaturall,</hi> and therefore not to conclude againſt the operation of the <hi>Starre</hi> in <hi>Naturall Births and Generations;</hi> and from them both I apply this Diſquiſition thus:</p>
+            <p>When you come to gaze on the <hi>Starres</hi> that leade you unto <hi>Chriſt,</hi>
+               <note place="margin">Appl.</note> reſolve beforehand, they cannot do it of themſelves:
+<note place="margin">1 Cor. 3.6.</note> No, <hi>Paul</hi> may plant, <hi>Apollos</hi> may water, but <hi>God</hi> onely give the increaſe.</p>
+            <p>So,
+<note place="margin">Pſal. 19.1.</note> 
+               <hi>the Heavens declare the glory of God;</hi> yet that we are thereby ſtirred up to glorifie God, it is of his <hi>Grace;</hi> and therefore pray before you come hither, That the <hi>light</hi> which you receive from the <hi>Starres</hi> may be effectuall to bring you to the <hi>Starre of Light, Ieſus Chriſt.</hi>
+            </p>
+            <p>Aſcribe not that to the <hi>Starres,</hi> which is due to the <hi>Sun,</hi> nor aſcribe that to the <hi>created Sun,</hi> which is due only to the <hi>creating Sun.</hi>
+            </p>
+            <p>That <hi>Common light Externall,</hi> which we have from the <hi>Sun</hi> in the <hi>Day,</hi> and from the <hi>Starres</hi> in the <hi>Night,</hi> we are beholding to them for it, but as <hi>Inſtruments</hi> onely, thereof <hi>God</hi> is the <hi>Author;</hi> much more or that
+<pb n="17" facs="tcp:166761:11"/>
+               <hi>ſpeciall light Internall</hi> whereby we are brought to <hi>Christ.</hi>
+            </p>
+            <p>
+               <hi>A new created Starre</hi> may help to it <hi>Instrumentally;</hi> but onely the <hi>Antient of dayes, the Starre from everla<g ref="char:EOLhyphen"/>ſting,</hi> and the <hi>Starre which is everlaſting,</hi> can onely <hi>efficiently</hi> bring us to himſelfe.</p>
+            <p>But if the <hi>Starres</hi> can do any thing this way, what then think you of the ſtudy of <hi>Astrology?</hi> Is it <hi>law<g ref="char:EOLhyphen"/>full,</hi> or is it <hi>unlawfull?</hi>
+            </p>
+            <p>It is my <hi>fourth Diſquiſition,</hi>
+               <note place="margin">
+                  <hi>Pars</hi> 4.</note> and thus I diſ<g ref="char:EOLhyphen"/>cuſſe it:</p>
+            <p>I have read ſome, and thoſe no mean ones, who give this <hi>Queſtion</hi> the <hi>Check</hi> in a <hi>Negative Reſolve,</hi> telling us, That as <hi>God</hi> forbids all <hi>Idolatrie,</hi> and <hi>wor<g ref="char:EOLhyphen"/>ſhipping of Images,</hi> either in <hi>Heaven, Earth,</hi> or under <hi>Earth:</hi> ſo likewiſe he forbids all <hi>Divination,</hi> both <hi>Hydromantia,</hi> by <hi>Water;</hi> and <hi>Pyromantia,</hi> by <hi>Fire</hi> and <hi>Chyromantia,</hi> by the ſeames in the <hi>Hands;</hi> and <hi>Ne<g ref="char:EOLhyphen"/>cromantia,</hi> by the <hi>Dead;</hi> and <hi>Ariomantia, per ſecures;</hi> and <hi>Cataphromantia, per ſpecula;</hi> and <hi>Cacanomantia, per pelves;</hi> and <hi>Sciomantia, per umbras,</hi> and <hi>Capno<g ref="char:EOLhyphen"/>mantia, per fumum;</hi> and <hi>Aſtronomantia,</hi> by the <hi>Starres:</hi> For all, ſave the laſt, I believe they are <hi>ſinnes</hi> or <hi>va<g ref="char:EOLhyphen"/>nities,</hi> and therefore <hi>ſins</hi> becauſe <hi>vanities.</hi>
+            </p>
+            <p>But why they ſay, That which is called <hi>Divinati<g ref="char:EOLhyphen"/>on by the Starres</hi> is forbidden, I ſhall examine in the <hi>reaſons</hi> of their <hi>Aſſertion,</hi> which they take <hi>a Nomine, Traduce, &amp; Fine:</hi> from the <hi>Name,</hi> the <hi>Root,</hi> and <hi>End</hi> of <hi>Aſtrology.</hi>
+            </p>
+            <p n="1">1. For the <hi>Name,</hi> they are called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Mag<g ref="char:EOLhyphen"/>nonemim,</hi> which comes from <hi>Guanan,</hi> which ſignifies a <hi>Cloud;</hi> and they give their anſwer under a pretence of the <hi>Cloudes.</hi>
+            </p>
+            <pb n="18" facs="tcp:166761:12"/>
+            <p>Againe, <hi>Iudiciall Astrology</hi> is called <hi>Haijdgnoni,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which the <hi>LXX.</hi> tranſlate <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which ſignifies <hi>ventriloquium,</hi> and is <hi>Clavis Magiae,</hi> the Key to all <hi>Magick.</hi>
+            </p>
+            <p>Once more, <hi>Aſtrologers</hi> are called <hi>Hachoziba<g ref="char:EOLhyphen"/>kokabhim,</hi>
+               <note place="margin">Iſa. 47.13.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Intuentes ſtellas,</hi> or <hi>Star<g ref="char:EOLhyphen"/>gazers,</hi> which ſignifies to ſee, and foretell things <hi>con<g ref="char:EOLhyphen"/>tingent.</hi>
+            </p>
+            <p>Yet once more,
+<note place="margin">Deut. 22.</note> They are called <hi>Aſaphmi,</hi> which comes of <hi>Naſaph, Twilight,</hi> becauſe in the <hi>Twilight</hi> they marked the <hi>Heavens</hi> moſt.</p>
+            <p n="2">2. For their <hi>Root,</hi> It came from <hi>Idolatrie,</hi> and therefore,
+<note place="margin">Jer. 18.2.</note> ſayes the <hi>Prophet, Learne not the way of the Heathen, neither be afraid of the ſignes of Hea<g ref="char:EOLhyphen"/>ven.</hi>
+            </p>
+            <p n="3">3. For the <hi>End,</hi> It is injurious to <hi>God,</hi> and it is in<g ref="char:EOLhyphen"/>jurious to <hi>Man;</hi> To <hi>God,</hi> as taking away his <hi>Provi<g ref="char:EOLhyphen"/>dence,</hi> and tying all things to a <hi>fatall Neceſsity,</hi> taking away his <hi>Omniſcience,</hi> and aſcribing to the <hi>Starres</hi> the <hi>Prediction</hi> of <hi>things contingent,</hi> which is proper to <hi>God onely:</hi> To <hi>Man,</hi> as taking away from him, the <hi>li<g ref="char:EOLhyphen"/>berty of his Will, in Moralls,</hi> which he hath from <hi>Na<g ref="char:EOLhyphen"/>ture,</hi> and in <hi>Divines,</hi> which he hath from <hi>Grace.</hi>
+            </p>
+            <p>This, and ſomewhat more I have read, and part of it I have heretofore believed; but I retract, becauſe I finde not the <hi>Aſtrologer</hi> either an <hi>Inchanter,</hi> or a <hi>Witch,</hi> or a <hi>Charmer,</hi> or a <hi>Conſulter with familiar ſpi<g ref="char:EOLhyphen"/>rits,</hi> or a <hi>Wizzard,</hi> or a <hi>Necromancer.</hi>
+            </p>
+            <p>Some men there be that ſhroud themſelves under this <hi>Art,</hi> that do practiſe ſome of theſe things; and that I once ſaw it, and did not <hi>in limine</hi> reprove it,
+<pb n="19" facs="tcp:166761:12"/>I am heartily ſorry, and beſeech him that did it, to repent of it himſelfe.</p>
+            <p>But the true <hi>Aſtrologer</hi> meddles with no <hi>Magia demoniaca,</hi> and other <hi>Magia</hi> I read of none, but what is called <hi>Divina,</hi> or <hi>Mathematica,</hi> or <hi>Phyſica;</hi> none of which, I conceive, any <hi>wiſe man</hi> will ſay is unlaw<g ref="char:EOLhyphen"/>full; and therefore I give my <hi>Vote</hi> for the <hi>legality of Aſtrology;</hi> and the <hi>Reaſons</hi> that induce me, are the very ſame which perſwaded me to the contrary.</p>
+            <p n="1">1. Their <hi>Name;</hi> The <hi>Hebrewes</hi> call the <hi>Stars,
+<note place="margin">2 Reg. 23.</note> Maſ<g ref="char:EOLhyphen"/>ſaloth,</hi> of <hi>Nazal,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which ſignifies <hi>Influere:</hi> and the <hi>Rabbins</hi> call them <hi>Meharim</hi> of <hi>Sheret,</hi> which ſignifies <hi>Ministrare;</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> whence comes that <hi>Axiome</hi> allowed by all men, <hi>Aſtra non neceſsi<g ref="char:EOLhyphen"/>tant, ſed inclinant;</hi> The <hi>Starres</hi> compell not, but on<g ref="char:EOLhyphen"/>ly they incline, and therefore by the <hi>Starres</hi> may the <hi>Aſtrologer</hi> predict mans <hi>Inclination and Man<g ref="char:EOLhyphen"/>ners;</hi> which, if good, may be heightened by a <hi>holy Ambition,</hi> if bad, may be prevented by good <hi>Educa<g ref="char:EOLhyphen"/>tion;</hi> for <hi>Sapiens dominabitur aſtris,</hi> is allowed by all men, by <hi>Aſtrologers</hi> and all.</p>
+            <p n="2">2. Their <hi>Root,</hi> It was not <hi>Idolatrie,</hi> but <hi>Innocency; Adam</hi> in <hi>Paradiſe</hi> was the <hi>Father</hi> of this <hi>Art;</hi> and had he as well obſerved the <hi>Starre of Knowledge,</hi> for the direction of his <hi>Will,</hi> as the <hi>Tree of Knowledge</hi> for the pleaſing of his <hi>Phancy,</hi> he had not yet been bani<g ref="char:EOLhyphen"/>ſhed.</p>
+            <p>It was not <hi>Idolatry,</hi> but <hi>Obedience,</hi> upon which this <hi>Syen</hi> was grafted, when the <hi>Tree</hi> was almoſt withe<g ref="char:EOLhyphen"/>red. <hi>Abraham the Friend of God,</hi> and <hi>Father of the Faithfull,</hi> was no <hi>Stepfather to Aſtrology,</hi> if we believe <hi>Antiquity.</hi>
+            </p>
+            <pb n="20" facs="tcp:166761:13"/>
+            <p>It was not <hi>Idolatrie,</hi> but <hi>Wiſdome,</hi> from which this <hi>Art</hi> got life, after it had long lay bleeding; <hi>Solomon</hi> the wiſeſt of men was the beſt <hi>Aſtrologer</hi> the world ever entertained.</p>
+            <p>And why were the <hi>Prieſts of Egypt</hi> forbidden the ſtudy of all other <hi>Arts,</hi> and yet permitted the ſtudy of <hi>Aſtrologie?</hi> and why do the <hi>Arabicks</hi> call their <hi>Aſtrologers Cachiu,</hi> which comes of <hi>Cohu,</hi> which ſig<g ref="char:EOLhyphen"/>nifies a <hi>Prieſt?</hi> Surely it is to tell the <hi>Aſtrologers</hi> that though the <hi>Presbyter</hi> may be his <hi>Enemy,</hi> yet the <hi>Prieſt</hi> may be his <hi>Friend,</hi> and allow his <hi>Art</hi> lawfull, not onely for the <hi>Root</hi> of it, but alſo for the <hi>End</hi> of it.</p>
+            <p n="3">3. Which cannot be injurious to <hi>God,</hi> becauſe the <hi>Aſtrologer</hi> confeſſeth, <hi>Sapiens dominabitur astris,</hi> &amp; admire <hi>Gods Omnipotency, Omniſcience,</hi> and <hi>Provi<g ref="char:EOLhyphen"/>dence,</hi> who hath ſo powerfully diſpoſed of all <hi>Inferi<g ref="char:EOLhyphen"/>our bodyes</hi> to the <hi>inclination</hi> of the <hi>Superiour,</hi> and yet given the <hi>Inferiour</hi> power, <hi>Maugre</hi> the <hi>Starres,</hi> to be honeſt, to be holy, to be happy.</p>
+            <p>Nor can it be injurious to <hi>Man</hi> neither, For ſtill <hi>Sapiens dominabitur aſtris;</hi> nor onely doth the <hi>All<g ref="char:EOLhyphen"/>wiſe God</hi> command the <hi>Starres,</hi> but alſo the <hi>Mean<g ref="char:EOLhyphen"/>wiſe Man</hi> may countermand the <hi>Starres.</hi>
+            </p>
+            <p>
+               <hi>Venus</hi> doth not compell a Woman to <hi>Wantonneſſe,</hi> nor <hi>Mercury</hi> a man to <hi>Theft;</hi> the Inclination they offer may be withſtood and reſiſted by ſanctifyed reaſon.</p>
+            <p>He that writes moſt for <hi>Aſtrologie,</hi> allowes it no more then an <hi>Art,</hi> which teacheth by the <hi>Motions</hi> and <hi>Influence</hi> of the <hi>Signes, Starres,</hi> and <hi>Celeſtiall Planets,</hi> to prognoſticate of <hi>Natur all Effects</hi> (<hi>Naturall,</hi> not
+<pb n="21" facs="tcp:166761:13"/>
+               <hi>Contingent, Naturall,</hi> not <hi>Supernaturall;</hi>) It is <hi>Ptolo<g ref="char:EOLhyphen"/>mies</hi> in his <hi>Quadrapartite.</hi>
+               <note place="margin">Lib. 1.</note>
+            </p>
+            <p>The <hi>Aſtrologers Speculation</hi> is in the knowledge of the <hi>motions</hi> of the <hi>Starres;</hi> his <hi>Practiſe</hi> is in the <hi>Ef<g ref="char:EOLhyphen"/>fects</hi> of thoſe <hi>motions;</hi> and when he keeps himſelfe within theſe <hi>Bounds,</hi> and the <hi>Boundaries</hi> of the <hi>Law</hi> under which he lives, I ſee no reaſon why any reaſo<g ref="char:EOLhyphen"/>nable man ſhould gainſay the <hi>lawfulneſſe</hi> of <hi>Aſtrology;</hi> and the rather, becauſe <hi>God</hi> was pleaſed to bring us, who were <hi>Gentiles,</hi> in our <hi>Predeceſſors,</hi> by <hi>Aſtrology,</hi> by a <hi>Starre</hi> unto <hi>Chriſt.</hi>
+            </p>
+            <p>It is my fifth and laſt Diſquiſition;
+<note place="margin">
+                  <hi>Pars</hi> 5.</note> Why did God direct them by a <hi>Starre,</hi> and not by a <hi>Prophet,</hi> not by an <hi>Angel?</hi>
+            </p>
+            <p>Saint <hi>Chriſoſtome</hi> propoſes the <hi>Queſtion;</hi> Why did not <hi>God</hi> ſend ſome <hi>Prophet</hi> unto them, as unto the <hi>Jewes?</hi> why not an <hi>Angel,</hi> as unto the <hi>Shepheards?</hi> why did he not ſpeak unto them by ſome voice from Heaven, as he did when <hi>Chriſt</hi> was baptiſed? why none of thoſe, but a <hi>Starre</hi> to direct them? And thus he anſwers it:</p>
+            <p>By a <hi>Starre</hi> did <hi>God</hi> direct the <hi>Gentiles,</hi> not by an <hi>Angel,</hi> not by a <hi>Prophet,</hi> not by a <hi>Voice</hi> from Hea<g ref="char:EOLhyphen"/>ven, becauſe he would now condeſcend to their weak<g ref="char:EOLhyphen"/>neſſe, and teach them by ſuch things as they were moſt acquainted with, and draw them from a low to a higher, and more worthy degree of <hi>Philoſophy.</hi>
+            </p>
+            <p>And from hence will ariſe very excellent <hi>Acts</hi> of <hi>Divinity</hi> for us all, for my ſelfe and <hi>Brethren</hi> of the <hi>Clergy;</hi> for you <hi>Gentlemen,</hi> who profeſſe your ſelves <hi>Students in Astrology,</hi> and for all others, who are here aſſembled.</p>
+            <pb n="22" facs="tcp:166761:14"/>
+            <p n="1">1. That we of the <hi>Clergy,</hi> in directing men to <hi>Chriſt,</hi> ſhould uſe theſe means for perſwaſion, which are moſt familiar to the <hi>Hearers,</hi> and ſo by things knowne and eaſie, bring them to underſtand things more difficult, and yet unknown.</p>
+            <p>Thus Saint <hi>John Baptiſt,</hi> that he might bring the <hi>Jewes</hi> to the <hi>Baptiſme of Chriſt,</hi>
+               <note place="margin">Mat. 3.</note> and fit them for his people, uſed the <hi>Baptiſme of Water,</hi> a thing they were well acquainted with.</p>
+            <p>Thus Saint <hi>Paul</hi> takes occaſion from the <hi>Altar</hi> to the <hi>unknowne God,</hi>
+               <note place="margin">Acts 17.</note> to ſpeak of the <hi>true God.</hi>
+            </p>
+            <p>Thus <hi>Chriſt,</hi> when he intended to make <hi>Fiſhermen Fiſhers of men,</hi> he tooke them in their owne <hi>Trade,</hi> and by a great draught of <hi>Fiſhes,</hi> cauſed them to fol<g ref="char:EOLhyphen"/>low him.</p>
+            <p>And here, becauſe theſe <hi>Arabians</hi> were <hi>Aſtrolo<g ref="char:EOLhyphen"/>gers,</hi> and well verſed in the <hi>Starres,</hi> he calleth them to himſelfe by a <hi>Starre.</hi>
+            </p>
+            <p>And the day upon which this portion of <hi>Scripture</hi> is read, is called not onely <hi>Epiphany,</hi> becauſe that day <hi>Chriſt</hi> ſhewed the power of his <hi>Deity,</hi> at a wed<g ref="char:EOLhyphen"/>ding in <hi>Cana</hi> of <hi>Galilee,</hi>
+               <note place="margin">John 2.11.</note> by turning their <hi>Water into Wine;</hi> and ſo called <hi>Wine-drinkers</hi> to himſelf by Wine.</p>
+            <p>Not only <hi>Theophania,</hi> becauſe that day there was a Manifeſtation of the <hi>Trinity,</hi>
+               <note place="margin">Math 3.16.</note> the <hi>Father</hi> in a <hi>Voice,</hi> the <hi>Sonne</hi> in the <hi>Water,</hi> the <hi>Holy Ghost</hi> in a <hi>Dove;</hi> and ſo calls <hi>Antitrinitarians</hi> to the acknowledgement of a <hi>Trinity</hi> in the <hi>Creatour</hi> by a <hi>Demonſtration</hi> of a <hi>Trini<g ref="char:EOLhyphen"/>ty</hi> in the <hi>Creatures.</hi>
+            </p>
+            <p>But alſo <hi>Epiphania,</hi> becauſe that day <hi>Chriſt</hi> appea<g ref="char:EOLhyphen"/>red to theſe <hi>Aſtrologers,</hi> or <hi>Magi,</hi> or <hi>Wiſe men,</hi> and
+<pb n="23" facs="tcp:166761:14"/>caught and taught them in their owne <hi>Art,</hi> by the di<g ref="char:EOLhyphen"/>rection of a <hi>Starre.</hi>
+            </p>
+            <p>So it is thought by ſome <hi>Clerks,</hi> and thoſe no mean ones, That upon <hi>Twelvthday,</hi> though in divers yeers, thoſe <hi>three Miracles</hi> were wrought, and particularly by Biſhop <hi>Maximus,</hi> ſaying,
+<note place="margin">
+                  <hi>Hom.</hi> 1. <hi>de Epiph.</hi>
+               </note> 
+               <hi>Hodiè stella Magos duxit ad praeſepium; Hodiè Aquae vertuntur in vinum; Ho<g ref="char:EOLhyphen"/>diè baptizatus eſt Chriſtus;</hi> This day <hi>Chriſt</hi> turned <hi>Water</hi> into <hi>Wine;</hi> this day <hi>Chriſt</hi> was baptiſed by Saint <hi>John,</hi> and this day <hi>Chriſt</hi> led the <hi>wiſe men</hi> to himſelfe by a <hi>Starre.</hi>
+            </p>
+            <p n="2">2. And this ſecondly to tell you, <hi>Gentlemen of this Art,</hi> that you muſt-pitch your <hi>Thoughts</hi> higher then your <hi>Eyes,</hi> and from the <hi>ſtarry heaven</hi> which you gaze on, reflect ſometimes into the <hi>Allegoricall Hea<g ref="char:EOLhyphen"/>ven</hi> of and in your ſelves, and ſometimes mount up <hi>to the Empyreall heaven of God and his Angels.</hi>
+            </p>
+            <p>
+               <hi>—Unaquaeque anima eſt Coelum,</hi> Every <hi>ſoule</hi> is a kinde of <hi>Heaven,</hi> ſayes St. <hi>Bernard,</hi> having the greater and leſſer Light within himſelfe to governe him, the one in the <hi>Day,</hi> the other in the <hi>Night;</hi> the <hi>Sun</hi> of his <hi>Un<g ref="char:EOLhyphen"/>derſtanding</hi> to govern him in the <hi>day</hi> of his <hi>proſperity,</hi> by way of <hi>providence,</hi> and the <hi>Moon</hi> of <hi>Faith,</hi> with the <hi>leſſer Starres</hi> of other <hi>Graces,</hi> which are the fruits of <hi>Faith,</hi> to governe him in the <hi>night of Adverſity,</hi> by way of <hi>Confidence and Dependance.</hi>
+            </p>
+            <p>Onely let this <hi>Sun</hi> of your <hi>Underſtanding</hi> continue bright, and not be clouded with any <hi>ſullen or ſinfull paſsion;</hi> let this <hi>Moon</hi> of your <hi>Faith</hi> wax, and not wane into any <hi>panick</hi> or <hi>ſervile feare,</hi> and thoſe <hi>Stars</hi> of other <hi>Graces</hi> be <hi>fixt,</hi> and not <hi>fall</hi> or <hi>erre.</hi>
+            </p>
+            <p>Let theſe <hi>Lights</hi> in thee, the <hi>Allegoricall Sun, Moon,</hi> &amp;
+<pb n="24" facs="tcp:166761:15"/>
+               <hi>Starres,</hi> do to men what the <hi>Literall Lights in Heaven</hi> doe to thee, <hi>ſhine before others,</hi> that they may be ſtir<g ref="char:EOLhyphen"/>red up to glorifie thy <hi>Father</hi> which is in <hi>Heaven,</hi>
+               <note place="margin">Mat. 6.6.</note> and then you need not doubt but <hi>God</hi> will glorifie you, for they that be <hi>wiſe</hi> ſhall ſhine as the brightneſſe of the <hi>Firmament,</hi>
+               <note place="margin">Dan. 12.2</note> and they that turne many to righte<g ref="char:EOLhyphen"/>ouſneſſe, as the <hi>Starres</hi> for ever and ever.</p>
+            <p>When you conſult your <hi>Ephimerides</hi> about your next <hi>Eclipſe,</hi> take heed, that in the mean time, there be no <hi>Eclipſe</hi> upon thy <hi>Soule.</hi> The <hi>Eclipſe</hi> of the <hi>Sun</hi> is cauſed by the <hi>Interpoſition</hi> of the <hi>Moon,</hi> and the <hi>E<g ref="char:EOLhyphen"/>clipſe</hi> of <hi>God</hi> by the <hi>Interpoſition</hi> of thy ſinnes: <hi>Pray</hi> therefore with <hi>David,
+<note place="margin">Pſal.</note> Lord, ſhew the light of thy coun<g ref="char:EOLhyphen"/>tenance upon thy ſervant.</hi>
+            </p>
+            <p>When thou beholdeſt any <hi>blazing Starre, Comet,</hi> or <hi>prodigious Signe,</hi> remember the <hi>world</hi> ſhall one day be burnt with <hi>fire;</hi> and take thou heed thou kindle not <hi>Gods</hi> wrath with more <hi>fewell of thy ſinne,</hi> leſt thou be burnt with the world.</p>
+            <p>In a word, when thou contemplateſt the beauty of the <hi>Starres,</hi> and delighteſt thy ſelfe in the ſweetneſſe of thine own <hi>profeſsion,</hi> take one pitch higher, and ſay, <hi>Si talis in Creaturâ, qualis in Creatore,</hi> if there be ſuch beauty in the <hi>Starres,</hi> that are but <hi>Creatures,</hi> what beauty is there in <hi>God</hi> that made them all?</p>
+            <p>There, there ſettle your <hi>Soules,</hi> and that your <hi>Soules</hi> may there be ſetled: ſetled there now by a Contemplation, and ſetled thereafter by <hi>Poſſeſsion:</hi> follow one Rule of your owne <hi>Aſtronomy,</hi> and follow another Rule of our <hi>Divinity,</hi> and ſo happily may we and you agree together on <hi>Earth,</hi> and dwell together in <hi>Heaven.</hi>
+            </p>
+            <pb n="25" facs="tcp:166761:15"/>
+            <p n="1">1. Your owne Rule is <hi>Opticall;</hi> and it is this, The higher you go, the greater you know the <hi>Starres</hi> above, and the leſſer are things below: Now you are below, and practiſe no more knowledge then them that are below you, how like <hi>Mole-Hills,</hi> like <hi>Moates,</hi> like <hi>Nothings</hi> ſeeme the <hi>Starres?</hi> and the <hi>Earth</hi> like <hi>Mountaines,</hi> like <hi>Rocks,</hi> like <hi>Worlds?</hi> but when you are above, how like a <hi>World</hi> feemes every <hi>Star,</hi> and this <hi>World</hi> like an <hi>Atome?</hi>
+            </p>
+            <p>Proportionably is <hi>Grace;</hi> is every <hi>Grace</hi> of <hi>God</hi> great and glorious in the <hi>Perſpective</hi> of thy <hi>Faith?</hi> Is <hi>Sinne,</hi> is every <hi>Sin</hi> vile and contemptible even in the <hi>Optick</hi> of thy <hi>Senſe?</hi> Is the favour of <hi>God</hi> in the pardon of thy <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ins,</hi> and the hope of <hi>everlaſting life</hi> glorious and wonderfull in thy <hi>Apprehenſion?</hi> why then thou art be<g ref="char:EOLhyphen"/>come a <hi>Divine Aſtrologer,</hi> and thy <hi>Starres</hi> have led thee unto <hi>Chriſt,</hi> and there I leave thee, and that I may not leave my ſelfe behinde thee, I give thee</p>
+            <p n="2">2. Secondly this <hi>Rule of Divinity,</hi> and it is <hi>Practicall; He that aſcended is the ſame that deſcended.</hi>
+               <note place="margin">Epheſ 4.9.</note>
+            </p>
+            <p>Your <hi>Rule</hi> is <hi>probable and conjecturall,</hi> this is <hi>certaine and experimentall; Chriſt</hi> hath tried it, and Saint <hi>Paul</hi> confirms it, and we can give <hi>Demonſtrations</hi> for it, One I offer you.</p>
+            <p>No <hi>Rule</hi> ſo ſure to convey <hi>water</hi> to the top of an <hi>high Tower,</hi> as to let it fall at firſt exceeding low; ſo if ever you will have your <hi>good Starres</hi> lead you unto <hi>Chriſt,</hi> let firſt your <hi>bad Sins</hi> lay you very low, that <hi>God</hi> may come to you, to <hi>your humble ſoules, The humble ſoule being that Bethlehem</hi> which <hi>God</hi> chiefly delights to dwell in.</p>
+            <p>This is the firſt foot of <hi>Jacobs Ladder,</hi> and let it be the firſt foot too of your <hi>Jacobs Staffe; Patience</hi> the next ſtep; the next round be <hi>Charity,</hi> and the upmoſt <hi>Faith.</hi>
+            </p>
+            <p>But let all theſe be fixt like the <hi>Starres;</hi> not wandring, like the <hi>Planets.</hi>
+            </p>
+            <pb n="26" facs="tcp:166761:16"/>
+            <p>Let not any <hi>proſperous wickedneſſe,</hi> got by <hi>Mars,</hi> turn the <hi>Baſis</hi> of your <hi>Humility.</hi>
+            </p>
+            <p>Let not any <hi>reproachfull language,</hi> though from the <hi>Dog-starre</hi> of <hi>Obloquie</hi> and <hi>Detraction,</hi> move your <hi>Pati<g ref="char:EOLhyphen"/>ence.</hi>
+            </p>
+            <p>Let not any action of <hi>Unkindneſſe</hi> or <hi>Demerit,</hi> though from the <hi>Vulture Starre</hi> of <hi>unthankfulneſſe,</hi> break your <hi>Charity.</hi>
+            </p>
+            <p>Let not any <hi>Tranſgreſsion</hi> of <hi>Drunkeneſſe,</hi> or <hi>Unclean<g ref="char:EOLhyphen"/>neſſe,</hi> or whatſoever elſe, though from the <hi>merry or me<g ref="char:EOLhyphen"/>lancholly Starre</hi> of <hi>Iupiter</hi> or <hi>Saturn,</hi> ſhake your <hi>Faith.</hi>
+            </p>
+            <p>Keep theſe <hi>fixt,</hi> and you ſhall be <hi>fixt; fixt</hi> in a <hi>Hea<g ref="char:EOLhyphen"/>ven</hi> upon <hi>Earth,</hi> by <hi>Sanctification,</hi> and <hi>fixt</hi> in the <hi>Heaven</hi> above <hi>Earth,</hi> by <hi>Glorification:</hi> Both which I wiſh you, you, and my ſelfe, and all.</p>
+            <p n="3">3. And that we may all be here and there <hi>fixt:</hi> One word more I ſpeak to you all.</p>
+            <p>Behold theſe <hi>Magi,</hi> theſe <hi>Wiſe-men,</hi> theſe <hi>Astrologers,</hi> loaden with <hi>Gold,</hi> enflamed with <hi>Myrrh,</hi> and hallowed with <hi>Frankincenſe;</hi> and go you, and do likewiſe, offer unto <hi>Chriſt</hi> the <hi>Gold</hi> of your <hi>Love and Charity,</hi> the <hi>Myrrh</hi> of you <hi>Teares and Repentance,</hi> and the <hi>Frankin<g ref="char:EOLhyphen"/>cenſe</hi> of your <hi>Prayers and Praiſes.</hi>
+            </p>
+            <p>Or, as S. <hi>Auguſtine</hi> hath it, <hi>Adorate corporibus, ve<g ref="char:EOLhyphen"/>neramini officiis, honorate Muneribus; Adore Chriſt</hi> with your <hi>Bodies, worſhip Chriſt</hi> with your <hi>Soules,</hi> and <hi>bleſſe Chriſt</hi> with your <hi>Goods.</hi>
+            </p>
+            <p>With your <hi>Bodyes,</hi> becauſe <hi>hee</hi> is a <hi>King,</hi> with your <hi>Soules,</hi> becauſe <hi>hee</hi> is <hi>God,</hi> with your <hi>Goods,</hi> becauſe <hi>hee</hi> is <hi>Man.</hi>
+            </p>
+            <p>So moſt of the <hi>Fathers</hi> have gloſſed upon theſe words,
+<note place="margin">
+                  <hi>L.</hi> 2. <hi>in loc.</hi>
+               </note> 
+               <hi>Aurum Regi, Thus Deo, Myrrham morituro, ſive viro,</hi> ſayes S. <hi>Ambroſe,</hi> They offer him <hi>Gold</hi> as a <hi>King,</hi> they offer
+<pb n="27" facs="tcp:166761:16"/>him <hi>Frankicenſe</hi> as <hi>God,</hi> they offer him <hi>Myrrh</hi> as a <hi>Man</hi> that was to dye for all men.</p>
+            <p>
+               <hi>Ut Regi aurum, ut morituro Myrrham,
+<note place="margin">Dohum. Christi Gen.</note> ut Deo thus obtulerunt,</hi> ſayes S. <hi>Baſil;</hi> By the oblation of their <hi>Gold</hi> they acknowledge him a <hi>King,</hi> by the oblation of their <hi>Frankincenſe</hi> they acknowledge him to be <hi>God,</hi> &amp; by the oblation of their <hi>Myrrh</hi> they believed in him as, and ac<g ref="char:EOLhyphen"/>knowledged him to be the <hi>Mediator</hi> betwixt <hi>God &amp; Man.</hi>
+            </p>
+            <p>And ſo <hi>Hilarius, In auro Regem, In thuro Deum,
+<note place="margin">
+                     <hi>Can.</hi> 1. in Mat.</note> In myrrha hominem confitantur;</hi> and all the <hi>Fathers, nemine contradicente,</hi> without the exception of one ſay the very ſame: All whom I may ſumme up in the <hi>Chriſtian Poeme,</hi>
+               <q>
+                  <l>Aurea naſcenti fuderunt munera Regi,</l>
+                  <l>Thura dedêre Deo, Myrrham tribuêr ſepulchro.</l>
+               </q>
+            </p>
+            <p>Did theſe <hi>Astrologers</hi> go to him with full hands, con<g ref="char:EOLhyphen"/>feſſing his <hi>Regality</hi> by their <hi>Gold,</hi> his <hi>Divinity</hi> by their <hi>Frankincenſe,</hi> his <hi>Mortality</hi> by their <hi>Myrrh?</hi>
+            </p>
+            <p>And ſhall we, that are <hi>Chriſtians,</hi>
+               <note place="margin">Deut. 16.16.</note> go to him empty handed? <hi>Abſit,</hi> for ſhame! <hi>Thou ſhalt not appeare before me empty,</hi> was <hi>Gods</hi> command upon the <hi>Jewes;</hi> and the <hi>morality</hi> of it bindes us equally with them, and if we are <hi>Divites in Crumenâ,</hi> we muſt not be <hi>pauperes in Conſci<g ref="char:EOLhyphen"/>entiâ;</hi> if we have <hi>rich Purſes,</hi> we muſt not have <hi>poore Conſciences; wealth</hi> in our own <hi>houſes</hi> muſt ſend <hi>Charity</hi> into the poore mens <hi>Boxes;</hi> as <hi>God</hi> hath offered to us, ſo we muſt offer unto <hi>God.</hi>
+            </p>
+            <p>Say not, Theſe <hi>Aſtrologers</hi> had the advantage of you, for they could go to <hi>Chriſt</hi> in his <hi>Cradle,</hi> but you cannot reach your <hi>Gifts</hi> unto <hi>him,</hi> becauſe he is in <hi>Heaven;</hi> for you may as well offer unto <hi>him</hi> as they did.</p>
+            <p>You ſee <hi>him,</hi> or you may ſee <hi>him</hi> with as clear <hi>eyes</hi> as they did, <hi>In minimis,</hi> in the <hi>diſtreſſed Members</hi> of <hi>his Body,</hi> wanting <hi>reliefe;</hi> in the <hi>meagre Infants</hi> of <hi>his Cradle,</hi>
+               <pb n="28" facs="tcp:166761:17"/>ſtarving for want of <hi>food;</hi> in the <hi>naked Limbs</hi> of <hi>his Body, poor Souldiers</hi> ſhivering for want of <hi>raggs</hi> to cover them; in the <hi>innocent parts</hi> of <hi>his Soule, ignorant ſilly people</hi> pe<g ref="char:EOLhyphen"/>riſhing for want of <hi>inſtruction.</hi>
+            </p>
+            <p>Nor let any of you ſay, I have no <hi>Riches</hi> to relieve, I have no <hi>Wiſdome</hi> to inſtruct, I have no <hi>Knowledge</hi> to informe; For <hi>God</hi> requires not of thee what thou haſt not, but what thou haſt.</p>
+            <p>If thou haſt <hi>Wealth,</hi> offer the plentifull <hi>Gold</hi> of thy <hi>Charity,</hi> if thou haſt <hi>Wiſdome,</hi> offer the wholſome <hi>Fran<g ref="char:EOLhyphen"/>kincenſe</hi> of thy <hi>Admonition;</hi> if thou haſt both, offer both; if thou haſt neither, yet thou haſt the <hi>Myrrh</hi> of thy <hi>Tears and Repentance</hi> to offer.</p>
+            <q>
+               <l>Pro Myrrhâ lachrimas, Auro cor porrige purum,</l>
+               <l>Pro Thure ex humili pectore funde preces:</l>
+            </q>
+            <p>Offer to <hi>God,</hi> inſtead of <hi>Gold</hi> a <hi>pure Heart,</hi> inſtead of <hi>Frankincenſe</hi> a <hi>pure Devotion,</hi> inſtead of <hi>Myrrh</hi> a <hi>pure Repentance.</hi>
+            </p>
+            <p>So King <hi>David,
+<note place="margin">Pſal. 141.2.</note> Let thy prayer be ſet forth before him as Incenſe.</hi>
+            </p>
+            <p>So King <hi>Solomon,
+<note place="margin">Cantic. 5.5.</note> Let thy Eyes (like the Hands of the Church drop down ſweet ſmelling Myrrh.</hi>
+            </p>
+            <p>So the <hi>King of Kings,</hi>
+               <note place="margin">Prov. 23.26.</note> and <hi>God of Gods, My Son give me thy heart,</hi> (that's as good as <hi>Gold.</hi>)</p>
+            <p>With theſe <hi>Offerings</hi> thou wilt make the <hi>Angels</hi> to re<g ref="char:EOLhyphen"/>joice, and fill them with <hi>Joy:</hi> For, <hi>there is joy amongst the Angels for one ſinner that repenteth,</hi> and thou ſhalt be filled with <hi>joy</hi> thy ſelf, here in the <hi>peace</hi> of <hi>Conſcience,</hi> and hereafter in the <hi>peace and preſence of God. Which the God of peace</hi> grant you, for the <hi>Prince of peace his ſake, Jeſus Chriſt. Amen, Amen.</hi>
+            </p>
+            <p>
+               <hi>To whom with the Father, and the Holy Ghoſt, be all Honour and Glory now and for ever</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
